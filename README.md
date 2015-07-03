@@ -59,13 +59,10 @@ For the Stanford Journalism fall course, [Public Affairs Data Journalism](http:/
 
 At [SRCCON 2015](http://srccon.org/), Washington Post [database editor Steven Rich](https://twitter.com/dataeditor) gave a [lightning talk titled, Artisinal Data](http://datanews.github.io/thunder/), in which he discussed the [WaPo's police shooting-counting project](http://www.washingtonpost.com/national/how-the-washington-post-is-examining-police-shootings-in-the-us/2015/06/29/f42c10b2-151b-11e5-9518-f9e0a8959f32_story.html). Some scattered notes:
 
-- Freddie gray is not in their database...they decided to stick to just shootings. But many questions with that, too, e.g. what about an off duty officer who shoots someone in a bar fight? 
-
-In regarsd to USA Today's mass shooting project...hardest thing to do was define what a mass shooting is. Is an incident where 10 people are shot but no one dies considered a mass shooting? Not everyone agrees.
-
-In WaPo's 2015 count, nearing 500 police shootings. Hardest thing to do after project is underway is to define new columns to track different components of an incident, such as the official justification, or whether the suspect was considered to be mentally ill.
-
-Facts change, and so must the records. One week a person may be reported as armed at the time, another week that judgment might change. Need a system to continually revisit incidents to see if any key facts/circumstances have changed.
+- Freddie Gray is not in their database...they decided to stick to just shootings. But many questions with that, too, e.g. what about an off duty officer who shoots someone in a bar fight? 
+- In regards to USA Today's mass shooting project...hardest thing to do was define what a mass shooting is. Is an incident where 10 people are shot but no one dies considered a mass shooting? Not everyone agrees.
+- In WaPo's 2015 count, nearing 500 police shootings. Hardest thing to do after project is underway is to define new columns to track different components of an incident, such as the official justification, or whether the suspect was considered to be mentally ill.
+- Facts change, and so must the records. One week a person may be reported as armed at the time, another week that judgment might change. Need a system to continually revisit incidents to see if any key facts/circumstances have changed.
 
 
 
