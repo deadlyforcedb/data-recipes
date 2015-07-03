@@ -54,6 +54,8 @@ For the Stanford Journalism fall course, [Public Affairs Data Journalism](http:/
 
 - [A Shot in the Dark - The Daily Show - Video Clip -- Comedy Central (thedailyshow.cc.com)](http://thedailyshow.cc.com/videos/v4l2pe/a-shot-in-the-dark) 
 
+- [We’re the Guardian reporters behind The Counted, a project to chronicle every person killed by police in the US. We're here to answer your questions about police and social justice in America. AUA. : IAmA (reddit.com)](https://www.reddit.com/r/IAmA/comments/3br3j6/were_the_guardian_reporters_behind_the_counted_a/) 
+
 
 ### Other notes
 
