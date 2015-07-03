@@ -2,7 +2,7 @@
 
 *A small repo of notes and scripts for collecting data on U.S. deadly force police incidents*
 
-For the Stanford Journalism fall course, [Public Affairs Data Journalism](http://padjo.org), I'm thinking of doing a class project tracking officer-involved fatal incidents based on already-collected data that, at the very least, can have an additional layer of verification, and most likely, be augmented with more information. This repo contains notes and random scripts about existing projects.
+For the Stanford Journalism fall course, [Public Affairs Data Journalism](http://padjo.org), I'm thinking of doing a class project tracking officer-involved fatal incidents based on already-collected data that, at the very least, can have an additional layer of verification, and most likely, be augmented with more information. This repo contains notes and random scripts about existing projects. Other repos in [github.com/deadlyforcedb](https://github.com/deadlyforcedb) will contain front-end application code, data schemas, etc. for the class.
 
 
 ### Data sources
@@ -14,6 +14,7 @@ For the Stanford Journalism fall course, [Public Affairs Data Journalism](http:/
 - [The Guardian's Counted data as zip file](http://interactive.guim.co.uk/2015/the-counted/thecounted-data.zip)
 - [Deadspin's crowdsourced Google Sheet](https://docs.google.com/spreadsheets/d/1cEGQ3eAFKpFBVq1k2mZIy5mBPxC6nBTJHzuSWtZQSVw/edit?usp=sharing)
 - [Killed By Police -- Facebook Group (facebook.com)](https://www.facebook.com/KilledByPolice) 
+- [List of killings by law enforcement officers in the United States - Wikipedia, the free encyclopedia (en.wikipedia.org)](https://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States) 
 
  
 
@@ -33,6 +34,8 @@ For the Stanford Journalism fall course, [Public Affairs Data Journalism](http:/
 
 ### Articles
 
+- [In Baltimore, No One Left to Press the Police (davidsimon.com)](http://davidsimon.com/in-baltimore-no-one-left-to-press-the-police/) 
+
 - [How The Washington Post is examining police shootings in the U.S. - The Washington Post (washingtonpost.com)](http://www.washingtonpost.com/national/how-the-washington-post-is-examining-police-shootings-in-the-us/2015/06/29/f42c10b2-151b-11e5-9518-f9e0a8959f32_story.html) 
 
 - [Baltimore's open (but not current) police data - Sunlight Foundation Blog (sunlightfoundation.com)](https://sunlightfoundation.com/blog/2015/05/01/baltimores-open-but-not-current-police-data/) 
@@ -48,6 +51,8 @@ For the Stanford Journalism fall course, [Public Affairs Data Journalism](http:/
 - [Nobody Knows How Many Americans The Police Kill Each Year -- FiveThirtyEight (fivethirtyeight.com)](http://fivethirtyeight.com/features/how-many-americans-the-police-kill-each-year/) 
 
 - [Another (Much Higher) Count Of Homicides By Police -- FiveThirtyEight (fivethirtyeight.com)](http://fivethirtyeight.com/datalab/another-much-higher-count-of-police-homicides/) 
+
+- [A Shot in the Dark - The Daily Show - Video Clip -- Comedy Central (thedailyshow.cc.com)](http://thedailyshow.cc.com/videos/v4l2pe/a-shot-in-the-dark) 
 
 
 ### Other notes
