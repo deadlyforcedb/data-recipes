@@ -1,4 +1,4 @@
-require 'httparty'
+require 'cacheget'
 
 namespace :fetch do
   desc "Grabs spreadsheet of spreadsheets"
@@ -10,4 +10,12 @@ namespace :fetch do
     open(fname, "w"){ |f| f.write p.body }
     puts "Downloaded #{p.body.size} bytes into #{fname}"
   end
+
+
+  task "wikipedia" do
+    require "scrapes/wikipedia"
+    Wikipedia.scrape
+  end
 end
+
+

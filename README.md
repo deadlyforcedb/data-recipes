@@ -15,8 +15,12 @@ For the Stanford Journalism fall course, [Public Affairs Data Journalism](http:/
 - [Deadspin's crowdsourced Google Sheet](https://docs.google.com/spreadsheets/d/1cEGQ3eAFKpFBVq1k2mZIy5mBPxC6nBTJHzuSWtZQSVw/edit?usp=sharing)
 - [Killed By Police -- Facebook Group (facebook.com)](https://www.facebook.com/KilledByPolice) 
 - [List of killings by law enforcement officers in the United States - Wikipedia, the free encyclopedia (en.wikipedia.org)](https://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States) 
+- [Las Vegas PD Fatal Shootings](http://www.lvmpd.com/AboutLVMPD/OfficeofInternalOversight/OfficerInvolvedShooting/tabid/451/Default.aspx)
+- [Las Vegas PD Non-Fatal Shootings](http://www.lvmpd.com/AboutLVMPD/OfficeofInternalOversight/NonFatalOfficerInvolvedShootings/tabid/459/Default.aspx)
+- [Cato Institute's National Police Misconduct Reporting Project](http://www.policemisconduct.net/) (an aggregation of links with no set structure)
 
- 
+
+
 ### Direct data links
 
 TODO: Prettify these later
@@ -68,6 +72,20 @@ TODO: Prettify these later
 - [We’re the Guardian reporters behind The Counted, a project to chronicle every person killed by police in the US. We're here to answer your questions about police and social justice in America. AUA. : IAmA (reddit.com)](https://www.reddit.com/r/IAmA/comments/3br3j6/were_the_guardian_reporters_behind_the_counted_a/) 
 
 - [Is Google More Accurate Than the FBI? -- The Marshall Project (themarshallproject.org)](https://www.themarshallproject.org/2015/07/02/is-google-more-accurate-than-the-fbi) 
+
+- [Hundreds of Police Killings Are Uncounted in Federal Statistics - WSJ (wsj.com)](http://www.wsj.com/articles/hundreds-of-police-killings-are-uncounted-in-federal-statistics-1417577504) 
+
+- [Bureau of Justice Statistics - National Data Collection on Police Use of Force](http://www.bjs.gov/content/pub/pdf/ndcopuof.pdf)
+
+- [Deadly Force: A decade of Oklahoma City Police Department shootings -- News OK (newsok.com)](http://newsok.com/deadly-force-a-decade-of-oklahoma-city-police-department-shootings/article/4747453) 
+
+## Todos
+
+- Scrape and parse Philadelphia PD records
+- Scrape and parse Las Vegas PD records
+- Read Justice Dept statistics report
+- Scrape Wikipedia reports
+
 
 
 ### Other notes
