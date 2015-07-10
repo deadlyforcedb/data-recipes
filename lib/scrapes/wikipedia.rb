@@ -1,9 +1,9 @@
 require 'scrapes'
-
 module Wikipedia
   INDEX_URL = 'https://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States'
   class << self
-    def scrape
+    def scrape!
+      raise "Not done yet TKTK"
       puts INDEX_URL
       p = get_page(INDEX_URL)
       puts p

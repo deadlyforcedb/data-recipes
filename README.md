@@ -63,8 +63,16 @@ For the Stanford Journalism fall course, [Public Affairs Data Journalism](http:/
 
 ## Todos
 
-- Scrape and parse Philadelphia PD records
-- Scrape and parse Las Vegas PD records
-- Read Justice Dept statistics report
-- Scrape Wikipedia reports
+- [x] Scrape Philadelphia PD records
+- [ ] Scrape Las Vegas PD fatal shooting records
+- [ ] Scrape Las Vegas PD non-fatal shooting records
+- [ ] Scrape Wikipedia reports
+- [ ] Parse Philadelphia PD records
+- [ ] Parse Las Vegas PD fatal shooting records
+- [ ] Parse Las Vegas PD non-fatal shooting records
+- [ ] Parse Wikipedia reports
+- [ ] Add Philly PD metadata to SOS
+- [ ] Add Las Vegas PD metadata to SOS
+- [ ] Figure out a better project structure for `lib/scrapes`
+- [ ] Read Justice Dept statistics report
 

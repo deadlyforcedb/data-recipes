@@ -14,7 +14,17 @@ namespace :fetch do
 
   task "wikipedia" do
     require "scrapes/wikipedia"
-    Wikipedia.scrape
+    Wikipedia.scrape!
+  end
+
+  task "philly_police" do
+    require "scrapes/philly_police"
+    arr = Scrapes::PhillyPolice.scrape!
+    fname = File.join(Scrapes::DATA_DIR, 'philly_police.json')
+    open(fname, 'w') do |f|
+      f.write JSON.pretty_generate(arr)
+    end
+    puts "Saved to #{fname}"
   end
 end
 
