@@ -1,12 +1,7 @@
-require 'httparty'
-require 'nokogiri'
-require 'cacheget'
-include Cacheget
-
-INDEX_URL = 'https://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States'
-
+require 'scrapes'
 
 module Wikipedia
+  INDEX_URL = 'https://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States'
   class << self
     def scrape
       puts INDEX_URL

@@ -5,78 +5,60 @@
 For the Stanford Journalism fall course, [Public Affairs Data Journalism](http://padjo.org), I'm thinking of doing a class project tracking officer-involved fatal incidents based on already-collected data that, at the very least, can have an additional layer of verification, and most likely, be augmented with more information. This repo contains notes and random scripts about existing projects. Other repos in [github.com/deadlyforcedb](https://github.com/deadlyforcedb) will contain front-end application code, data schemas, etc. for the class.
 
 
+
+
 ### Data sources
 
-- [Dallas Police Department (dallaspolice.net)](http://www.dallaspolice.net/ois/ois.html). via [Socrata](https://www.dallasopendata.com/Police/Dallas-Police-Public-Data-Officer-Involved-Shootin/4gmt-jyx2)
-- [Officer Involved Shootings -- Philadelphia Police Department (phillypolice.com)](https://www.phillypolice.com/ois/) 
-- [BPD Officer Involved Injuries -- OpenBaltimore / City of Baltimore's Open Data Catalog (data.baltimorecity.gov)](https://data.baltimorecity.gov/Public-Safety/BPD-Officer-Involved-Injuries/3w4d-kckv) 
-- [Spreadsheets -- Fatal Encounters (fatalencounters.org)](http://www.fatalencounters.org/spreadsheets/) 
-- [The Guardian's Counted data as zip file](http://interactive.guim.co.uk/2015/the-counted/thecounted-data.zip)
-- [Deadspin's crowdsourced Google Sheet](https://docs.google.com/spreadsheets/d/1cEGQ3eAFKpFBVq1k2mZIy5mBPxC6nBTJHzuSWtZQSVw/edit?usp=sharing)
+
+|             Source Name              |                                                               Landing page                                                               |                                                                      Direct Link                                                                       |
+|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Dallas PD                            | [Officer Involved Shootings](http://www.dallaspolice.net/ois/)                                                                           | [Socrata CSV](https://www.dallasopendata.com/api/views/4gmt-jyx2?accessType=DOWNLOAD)                                                                  |
+| Baltimore PD                         | [BPD Officer Involved Injuries (Socrata)](https://data.baltimorecity.gov/Public-Safety/BPD-Officer-Involved-Injuries/3w4d-kckv)          | [Socrata CSV](https://data.baltimorecity.gov/api/views/3w4d-kckv/rows.csv?accessType=DOWNLOAD)                                                         |
+| Philadelphia PD                      | [Officer Involved Shootings](https://www.phillypolice.com/ois/)                                                                          | None                                                                                                                                                   |
+| Las Vegas PD                         | [Fatal Shootings](http://www.lvmpd.com/AboutLVMPD/OfficeofInternalOversight/OfficerInvolvedShooting/tabid/451/Default.aspx)              | None                                                                                                                                                   |
+| Las Vegas PD                         | [Non-Fatal Shootings](http://www.lvmpd.com/AboutLVMPD/OfficeofInternalOversight/NonFatalOfficerInvolvedShootings/tabid/459/Default.aspx) | None                                                                                                                                                   |
+| Fatal Encounters                     | [Spreadsheets](http://www.fatalencounters.org/spreadsheets/)                                                                             | [Google Sheets CSV](https://docs.google.com/spreadsheets/d/1dKmaV_JiWcG8XBoRgP8b4e9Eopkpgt7FL7nyspvzAsE/export?format=csv&gid=0)                       |
+| Washington Post                      | [Github Repo](https://github.com/washingtonpost/data-police-shootings/)                                                                  | [Github Raw CSV](https://raw.githubusercontent.com/washingtonpost/data-police-shootings/master/fatal-police-shootings-data.csv)                        |
+| The Guardian                         | [About The Counted](http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/about-the-counted)                                     | [Zipped CSV](http://interactive.guim.co.uk/2015/the-counted/thecounted-data.zip)                                                                       |
+| Deadspin                             | [Deadspin Police-Shooting Database ](http://regressing.deadspin.com/deadspin-police-shooting-database-update-were-still-go-1627414202)   | [Google Sheets CSV](https://docs.google.com/spreadsheets/d/1cEGQ3eAFKpFBVq1k2mZIy5mBPxC6nBTJHzuSWtZQSVw/export?format=csv&gid=0)                       |
+| Wikipedia                            | [List of U.S. LEO killings](https://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States)             | None                                                                                                                                                   |
+| Killed By Police via FiveThirtyEight | [Another (Much Higher) Count Of Homicides By Police](http://fivethirtyeight.com/datalab/another-much-higher-count-of-police-homicides/)  | [Google Sheets CSV](https://docs.google.com/a/fivethirtyeight.com/spreadsheets/d/1WwVDP8anxtQm-6C2g7pjmZkS_jdSomM7UDMonIX0b6k/export?format=csv&gid=0) |
+
+
+
+
+### Projects
+
+(incomplete list)
+
+- [Fatal Encounters -- A step toward creating an impartial, comprehensive and searchable national database of people killed during interactions with law enforcement (fatalencounters.org)](http://www.fatalencounters.org/) 
+- [Investigation: Police shootings - Washington Post (washingtonpost.com)](https://www.washingtonpost.com/graphics/national/police-shootings/) 
+- [The Counted: people killed by police in the United States in 2015 – interactive -- US news -- The Guardian (theguardian.com)](http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database) 
+- [Officer Involved (theintercept.co)](https://theintercept.co/officer-involved/) 
 - [Killed By Police -- Facebook Group (facebook.com)](https://www.facebook.com/KilledByPolice) 
-- [List of killings by law enforcement officers in the United States - Wikipedia, the free encyclopedia (en.wikipedia.org)](https://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States) 
-- [Las Vegas PD Fatal Shootings](http://www.lvmpd.com/AboutLVMPD/OfficeofInternalOversight/OfficerInvolvedShooting/tabid/451/Default.aspx)
-- [Las Vegas PD Non-Fatal Shootings](http://www.lvmpd.com/AboutLVMPD/OfficeofInternalOversight/NonFatalOfficerInvolvedShootings/tabid/459/Default.aspx)
+- [List of killings by law enforcement officers in the United States - Wikipedia, the free encyclopedia (en.wikipedia.org)]() 
 - [Cato Institute's National Police Misconduct Reporting Project](http://www.policemisconduct.net/) (an aggregation of links with no set structure)
 
 
 
-### Direct data links
+### Articles and clippings
 
-TODO: Prettify these later
-
-- https://github.com/washingtonpost/data-police-shootings/raw/master/fatal-police-shootings-data.csv
-- http://interactive.guim.co.uk/2015/the-counted/thecounted-data.zip
-- Deadspin: https://docs.google.com/spreadsheets/d/1cEGQ3eAFKpFBVq1k2mZIy5mBPxC6nBTJHzuSWtZQSVw/export?format=csv&gid=0
-- Fatal Encounters: https://docs.google.com/spreadsheets/d/1dKmaV_JiWcG8XBoRgP8b4e9Eopkpgt7FL7nyspvzAsE/export?format=csv&id=1dKmaV_JiWcG8XBoRgP8b4e9Eopkpgt7FL7nyspvzAsE&gid=0
-- FiveThirtyEight: https://docs.google.com/a/fivethirtyeight.com/spreadsheets/d/1WwVDP8anxtQm-6C2g7pjmZkS_jdSomM7UDMonIX0b6k/export?format=csv&gid=0
-- Baltimore Socrata: https://data.baltimorecity.gov/api/views/3w4d-kckv/rows.csv?accessType=DOWNLOAD
-- Dallas Socrata: https://www.dallasopendata.com/api/views/4gmt-jyx2?accessType=DOWNLOAD
-
-### Projects
-
-- [Fatal Encounters -- A step toward creating an impartial, comprehensive and searchable national database of people killed during interactions with law enforcement (fatalencounters.org)](http://www.fatalencounters.org/) 
-
-
-- [Investigation: Police shootings - Washington Post (washingtonpost.com)](https://www.washingtonpost.com/graphics/national/police-shootings/) 
-
-- [The Counted: people killed by police in the United States in 2015 – interactive -- US news -- The Guardian (theguardian.com)](http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database) 
-
-- [Officer Involved (theintercept.co)](https://theintercept.co/officer-involved/) 
-
-
-
-
-### Articles
+(in complete)
 
 - [In Baltimore, No One Left to Press the Police (davidsimon.com)](http://davidsimon.com/in-baltimore-no-one-left-to-press-the-police/) 
-
 - [How The Washington Post is examining police shootings in the U.S. - The Washington Post (washingtonpost.com)](http://www.washingtonpost.com/national/how-the-washington-post-is-examining-police-shootings-in-the-us/2015/06/29/f42c10b2-151b-11e5-9518-f9e0a8959f32_story.html) 
-
 - [Baltimore's open (but not current) police data - Sunlight Foundation Blog (sunlightfoundation.com)](https://sunlightfoundation.com/blog/2015/05/01/baltimores-open-but-not-current-police-data/) 
- 
 - [About The Counted: why and how the Guardian is counting US police killings -- US news -- The Guardian (theguardian.com)](http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/about-the-counted) 
-
 - [Deadspin Police-Shooting Database Update: We're Still Going (regressing.deadspin.com)](http://regressing.deadspin.com/deadspin-police-shooting-database-update-were-still-go-1627414202) 
-
 - [Deadly Force, in Black and White - ProPublica (propublica.org)](http://www.propublica.org/article/deadly-force-in-black-and-white) 
-
 - [Police Shootings -- FiveThirtyEight (fivethirtyeight.com)](http://fivethirtyeight.com/tag/police-shootings/) 
-
 - [Nobody Knows How Many Americans The Police Kill Each Year -- FiveThirtyEight (fivethirtyeight.com)](http://fivethirtyeight.com/features/how-many-americans-the-police-kill-each-year/) 
-
 - [Another (Much Higher) Count Of Homicides By Police -- FiveThirtyEight (fivethirtyeight.com)](http://fivethirtyeight.com/datalab/another-much-higher-count-of-police-homicides/) 
-
 - [A Shot in the Dark - The Daily Show - Video Clip -- Comedy Central (thedailyshow.cc.com)](http://thedailyshow.cc.com/videos/v4l2pe/a-shot-in-the-dark) 
-
 - [We’re the Guardian reporters behind The Counted, a project to chronicle every person killed by police in the US. We're here to answer your questions about police and social justice in America. AUA. : IAmA (reddit.com)](https://www.reddit.com/r/IAmA/comments/3br3j6/were_the_guardian_reporters_behind_the_counted_a/) 
-
 - [Is Google More Accurate Than the FBI? -- The Marshall Project (themarshallproject.org)](https://www.themarshallproject.org/2015/07/02/is-google-more-accurate-than-the-fbi) 
-
 - [Hundreds of Police Killings Are Uncounted in Federal Statistics - WSJ (wsj.com)](http://www.wsj.com/articles/hundreds-of-police-killings-are-uncounted-in-federal-statistics-1417577504) 
-
 - [Bureau of Justice Statistics - National Data Collection on Police Use of Force](http://www.bjs.gov/content/pub/pdf/ndcopuof.pdf)
-
 - [Deadly Force: A decade of Oklahoma City Police Department shootings -- News OK (newsok.com)](http://newsok.com/deadly-force-a-decade-of-oklahoma-city-police-department-shootings/article/4747453) 
 
 ## Todos
@@ -85,17 +67,4 @@ TODO: Prettify these later
 - Scrape and parse Las Vegas PD records
 - Read Justice Dept statistics report
 - Scrape Wikipedia reports
-
-
-
-### Other notes
-
-At [SRCCON 2015](http://srccon.org/), Washington Post [database editor Steven Rich](https://twitter.com/dataeditor) gave a [lightning talk titled, Artisinal Data](http://datanews.github.io/thunder/), in which he discussed the [WaPo's police shooting-counting project](http://www.washingtonpost.com/national/how-the-washington-post-is-examining-police-shootings-in-the-us/2015/06/29/f42c10b2-151b-11e5-9518-f9e0a8959f32_story.html). Some scattered notes:
-
-- Freddie Gray is not in their database...they decided to stick to just shootings. But many questions with that, too, e.g. what about an off duty officer who shoots someone in a bar fight? 
-- In regards to USA Today's mass shooting project...hardest thing to do was define what a mass shooting is. Is an incident where 10 people are shot but no one dies considered a mass shooting? Not everyone agrees.
-- In WaPo's 2015 count, nearing 500 police shootings. Hardest thing to do after project is underway is to define new columns to track different components of an incident, such as the official justification, or whether the suspect was considered to be mentally ill.
-- Facts change, and so must the records. One week a person may be reported as armed at the time, another week that judgment might change. Need a system to continually revisit incidents to see if any key facts/circumstances have changed.
-
-
 
