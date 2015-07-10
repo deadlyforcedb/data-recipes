@@ -7,7 +7,7 @@ For the Stanford Journalism fall course, [Public Affairs Data Journalism](http:/
 
 ### Data sources
 
-- [Dallas Police Department (dallaspolice.net)](http://www.dallaspolice.net/ois/ois.html) 
+- [Dallas Police Department (dallaspolice.net)](http://www.dallaspolice.net/ois/ois.html). via [Socrata](https://www.dallasopendata.com/Police/Dallas-Police-Public-Data-Officer-Involved-Shootin/4gmt-jyx2)
 - [Officer Involved Shootings -- Philadelphia Police Department (phillypolice.com)](https://www.phillypolice.com/ois/) 
 - [BPD Officer Involved Injuries -- OpenBaltimore / City of Baltimore's Open Data Catalog (data.baltimorecity.gov)](https://data.baltimorecity.gov/Public-Safety/BPD-Officer-Involved-Injuries/3w4d-kckv) 
 - [Spreadsheets -- Fatal Encounters (fatalencounters.org)](http://www.fatalencounters.org/spreadsheets/) 
@@ -17,6 +17,17 @@ For the Stanford Journalism fall course, [Public Affairs Data Journalism](http:/
 - [List of killings by law enforcement officers in the United States - Wikipedia, the free encyclopedia (en.wikipedia.org)](https://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States) 
 
  
+### Direct data links
+
+TODO: Prettify these later
+
+- https://github.com/washingtonpost/data-police-shootings/raw/master/fatal-police-shootings-data.csv
+- http://interactive.guim.co.uk/2015/the-counted/thecounted-data.zip
+- Deadspin: https://docs.google.com/spreadsheets/d/1cEGQ3eAFKpFBVq1k2mZIy5mBPxC6nBTJHzuSWtZQSVw/export?format=csv&gid=0
+- Fatal Encounters: https://docs.google.com/spreadsheets/d/1dKmaV_JiWcG8XBoRgP8b4e9Eopkpgt7FL7nyspvzAsE/export?format=csv&id=1dKmaV_JiWcG8XBoRgP8b4e9Eopkpgt7FL7nyspvzAsE&gid=0
+- FiveThirtyEight: https://docs.google.com/a/fivethirtyeight.com/spreadsheets/d/1WwVDP8anxtQm-6C2g7pjmZkS_jdSomM7UDMonIX0b6k/export?format=csv&gid=0
+- Baltimore Socrata: https://data.baltimorecity.gov/api/views/3w4d-kckv/rows.csv?accessType=DOWNLOAD
+- Dallas Socrata: https://www.dallasopendata.com/api/views/4gmt-jyx2?accessType=DOWNLOAD
 
 ### Projects
 
