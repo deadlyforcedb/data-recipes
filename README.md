@@ -9,6 +9,8 @@ For the Stanford Journalism fall course, [Public Affairs Data Journalism](http:/
 
 ### Data sources
 
+(Listed here temporarily in lieu of a more structured solution)
+
 
 |             Source Name              |                                                               Landing page                                                               |                                                                      Direct Link                                                                       |
 |--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -43,7 +45,7 @@ For the Stanford Journalism fall course, [Public Affairs Data Journalism](http:/
 
 ### Articles and clippings
 
-(in complete)
+(incomplete list)
 
 - [In Baltimore, No One Left to Press the Police (davidsimon.com)](http://davidsimon.com/in-baltimore-no-one-left-to-press-the-police/) 
 - [How The Washington Post is examining police shootings in the U.S. - The Washington Post (washingtonpost.com)](http://www.washingtonpost.com/national/how-the-washington-post-is-examining-police-shootings-in-the-us/2015/06/29/f42c10b2-151b-11e5-9518-f9e0a8959f32_story.html) 
@@ -58,8 +60,22 @@ For the Stanford Journalism fall course, [Public Affairs Data Journalism](http:/
 - [We’re the Guardian reporters behind The Counted, a project to chronicle every person killed by police in the US. We're here to answer your questions about police and social justice in America. AUA. : IAmA (reddit.com)](https://www.reddit.com/r/IAmA/comments/3br3j6/were_the_guardian_reporters_behind_the_counted_a/) 
 - [Is Google More Accurate Than the FBI? -- The Marshall Project (themarshallproject.org)](https://www.themarshallproject.org/2015/07/02/is-google-more-accurate-than-the-fbi) 
 - [Hundreds of Police Killings Are Uncounted in Federal Statistics - WSJ (wsj.com)](http://www.wsj.com/articles/hundreds-of-police-killings-are-uncounted-in-federal-statistics-1417577504) 
-- [Bureau of Justice Statistics - National Data Collection on Police Use of Force](http://www.bjs.gov/content/pub/pdf/ndcopuof.pdf)
 - [Deadly Force: A decade of Oklahoma City Police Department shootings -- News OK (newsok.com)](http://newsok.com/deadly-force-a-decade-of-oklahoma-city-police-department-shootings/article/4747453) 
+
+
+### Official documents
+
+Documents that state policy or other things. TBD: put into a spreadsheet by agency and downloaded to the repo
+
+
+
+- [Bureau of Justice Statistics - National Data Collection on Police Use of Force](http://www.bjs.gov/content/pub/pdf/ndcopuof.pdf)
+- [SFPD - GENERAL ORDER - INVESTIGATION OF OFFICER INVOLVED SHOOTINGS AND
+DISCHARGES](http://sf-police.org/Modules/ShowDocument.aspx?documentid=14739)
+- [General Order 906.00 - Dallas Police Department Use of Deadly Force Policy](http://www.dallaspolice.net/ois/docs/General-Order-906.pdf)
+- [NIJ, Police Responses to Officer-Involved Shootings, David Klinger, grant number 97–IC–CX–0029](http://www.nij.gov/journals/253/pages/responses.aspx)
+
+
 
 ## Todos
 
@@ -67,10 +83,13 @@ For the Stanford Journalism fall course, [Public Affairs Data Journalism](http:/
 - [ ] Scrape Las Vegas PD fatal shooting records
 - [ ] Scrape Las Vegas PD non-fatal shooting records
 - [ ] Scrape Wikipedia reports
-- [ ] Parse Philadelphia PD records
-- [ ] Parse Las Vegas PD fatal shooting records
-- [ ] Parse Las Vegas PD non-fatal shooting records
-- [ ] Parse Wikipedia reports
+- [ ] Parse Philadelphia PD data
+- [ ] Parse Las Vegas PD fatal shooting data
+- [ ] Parse Las Vegas PD non-fatal shooting data
+- [ ] Parse Wikipedia data
+- [ ] Download and store Philly PD PDF reports
+- [ ] Download and store Las Vegas PD PDF reports
+- [ ] Download and store Dallas PD PDF reports
 - [ ] Add Philly PD metadata to SOS
 - [ ] Add Las Vegas PD metadata to SOS
 - [ ] Figure out a better project structure for `lib/scrapes`
