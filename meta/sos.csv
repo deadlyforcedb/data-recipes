@@ -1,0 +1,8 @@
+Sheet,date_collected,caseno,date,time,suspect_name,agency,state,zip,address,county,city,lat,lng,officer_manner_of_attack,suspect_armed,suspect_weapon_type,grand_jury,article_url,suspect_photo,suspect_race,suspect_age,suspect_gender,officer_name,officer_sex,officer_race,shots_fired,summary,justified,mental_illness
+baltimore,,Y,Y,Y,,Y,Y,,Y,Y,Y,Y,Y,Y,,,,,,,,,,,,,,,
+dallas,,Y,Y,,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,,,,Y,,,,Y,,
+deadspin,Y,,Y,,Y,Y,,,,Y,Y,,,Y,Y,Y,,Y,,Y,Y,Y,,,,Y,Y,,
+fatal encounters,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,,,,,,,Y,Y,Y,Y,Y,,,,,Y,Y,Y
+the counted,,,Y,,Y,Y,Y,,Y,,Y,,,,Y,,,,,Y,Y,Y,,,,,,,
+wapo,,Y,Y,,Y,,Y,,,,Y,,,Y,Y,,,,,Y,Y,Y,,,,,,,Y
+wikipedia,,,,,Y,,Y,,,,Y,,,,,,,Y,,,Y,,,,,,Y,,
