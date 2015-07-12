@@ -27,6 +27,13 @@ For the Stanford Journalism fall course, [Public Affairs Data Journalism](http:/
 | Killed By Police via FiveThirtyEight | [Another (Much Higher) Count Of Homicides By Police](http://fivethirtyeight.com/datalab/another-much-higher-count-of-police-homicides/)  | [Google Sheets CSV](https://docs.google.com/a/fivethirtyeight.com/spreadsheets/d/1WwVDP8anxtQm-6C2g7pjmZkS_jdSomM7UDMonIX0b6k/export?format=csv&gid=0) |
 
 
+#### Non-open-sources
+
+These are datasets that have not been made available directly to the public:
+
+- [Las Vegas Review Journal's Deadly Force searchable database](http://www.reviewjournal.com/news/deadly-force/advanced-search)
+- [L.A. Times Homicide Report: Officer-Involved homicides](http://homicide.latimes.com/officer_involved/true/year/all)
+
 
 
 ### Projects
@@ -35,12 +42,11 @@ For the Stanford Journalism fall course, [Public Affairs Data Journalism](http:/
 
 - [Fatal Encounters -- A step toward creating an impartial, comprehensive and searchable national database of people killed during interactions with law enforcement (fatalencounters.org)](http://www.fatalencounters.org/) 
 - [Investigation: Police shootings - Washington Post (washingtonpost.com)](https://www.washingtonpost.com/graphics/national/police-shootings/) 
-- [The Counted: people killed by police in the United States in 2015 – interactive -- US news -- The Guardian (theguardian.com)](http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database) 
-- [Officer Involved (theintercept.co)](https://theintercept.co/officer-involved/) 
+- [The Counted: people killed by police in the United States in 2015 – interactive -- US news -- The Guardian (theguardian.com)](http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database) - [Police Open Data Census: Officer Involved Shootings](https://codeforamerica.github.io/PoliceOpenDataCensus/OfficerInvolvedShootings.html)
+- [Officer Involved (theintercept.co)](https://theintercept.co/officer-involved/)
 - [Killed By Police -- Facebook Group (facebook.com)](https://www.facebook.com/KilledByPolice) 
 - [List of killings by law enforcement officers in the United States - Wikipedia, the free encyclopedia (en.wikipedia.org)]() 
-- [Cato Institute's National Police Misconduct Reporting Project](http://www.policemisconduct.net/) (an aggregation of links with no set structure)
-
+- [Deadly Force -- Las Vegas Review-Journal (reviewjournal.com)](http://www.reviewjournal.com/news/deadly-force) 
 
 
 ### Articles and clippings
@@ -60,8 +66,8 @@ For the Stanford Journalism fall course, [Public Affairs Data Journalism](http:/
 - [We’re the Guardian reporters behind The Counted, a project to chronicle every person killed by police in the US. We're here to answer your questions about police and social justice in America. AUA. : IAmA (reddit.com)](https://www.reddit.com/r/IAmA/comments/3br3j6/were_the_guardian_reporters_behind_the_counted_a/) 
 - [Is Google More Accurate Than the FBI? -- The Marshall Project (themarshallproject.org)](https://www.themarshallproject.org/2015/07/02/is-google-more-accurate-than-the-fbi) 
 - [Hundreds of Police Killings Are Uncounted in Federal Statistics - WSJ (wsj.com)](http://www.wsj.com/articles/hundreds-of-police-killings-are-uncounted-in-federal-statistics-1417577504) 
-- [Deadly Force: A decade of Oklahoma City Police Department shootings -- News OK (newsok.com)](http://newsok.com/deadly-force-a-decade-of-oklahoma-city-police-department-shootings/article/4747453) 
-
+- [Deadly Force: A decade of Oklahoma City Police Department shootings -- News OK (newsok.com)](http://newsok.com/deadly-force-a-decade-of-oklahoma-city-police-department-shootings/article/4747453)
+- [Visualization: Police-Involved Homicides in the U.S. Since 2011](http://ww2.kqed.org/lowdown/2015/04/09/visualization-officer-involved-homicides-since-2011)
 
 ### Official documents
 
@@ -75,6 +81,12 @@ DISCHARGES](http://sf-police.org/Modules/ShowDocument.aspx?documentid=14739)
 - [General Order 906.00 - Dallas Police Department Use of Deadly Force Policy](http://www.dallaspolice.net/ois/docs/General-Order-906.pdf)
 - [NIJ, Police Responses to Officer-Involved Shootings, David Klinger, grant number 97–IC–CX–0029](http://www.nij.gov/journals/253/pages/responses.aspx)
 
+
+### Projects regarding non-fatal police incidents
+
+- [Undue force - Sun Investigates - The Baltimore Sun (data.baltimoresun.com)](http://data.baltimoresun.com/news/police-settlements/) 
+- [Cato Institute's National Police Misconduct Reporting Project](http://www.policemisconduct.net/) (an aggregation of links with no set structure)
+- [Police Open Data Census](https://codeforamerica.github.io/PoliceOpenDataCensus/) / [Github repo](https://github.com/codeforamerica/PoliceOpenDataCensus) / [Recommendations](https://codeforamerica.github.io/PoliceOpenDataCensus/recomendations.html)
 
 
 ## Todos
@@ -94,4 +106,3 @@ DISCHARGES](http://sf-police.org/Modules/ShowDocument.aspx?documentid=14739)
 - [ ] Add Las Vegas PD metadata to SOS
 - [ ] Figure out a better project structure for `lib/scrapes`
 - [ ] Read Justice Dept statistics report
-

@@ -1,8 +1,9 @@
-Sheet,date_collected,caseno,date,time,suspect_name,agency,state,zip,address,county,city,lat,lng,officer_manner_of_attack,suspect_armed,suspect_weapon_type,grand_jury,article_url,suspect_photo,suspect_race,suspect_age,suspect_gender,officer_name,officer_sex,officer_race,shots_fired,summary,justified,mental_illness
-baltimore,,Y,Y,Y,,Y,Y,,Y,Y,Y,Y,Y,Y,,,,,,,,,,,,,,,
-dallas,,Y,Y,,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,Y,Y,,,,,,Y,,,,Y,,
-deadspin,Y,,Y,,Y,Y,,,,Y,Y,,,Y,Y,Y,,Y,,Y,Y,Y,,,,Y,Y,,
-fatal encounters,Y,Y,Y,,Y,Y,Y,Y,Y,Y,Y,,,,,,,Y,Y,Y,Y,Y,,,,,Y,Y,Y
-the counted,,,Y,,Y,Y,Y,,Y,,Y,,,,Y,,,,,Y,Y,Y,,,,,,,
-wapo,,Y,Y,,Y,,Y,,,,Y,,,Y,Y,,,,,Y,Y,Y,,,,,,,Y
-wikipedia,,,,,Y,,Y,,,,Y,,,,,,,Y,,,Y,,,,,,Y,,
+Sheet,date_collected,unique_id,date,time,agency,address,city,state,zip,county,lat,lng,suspect_name,suspect_race,suspect_age,suspect_gender,suspect_armed,suspect_status,suspect_weapon_type,suspect_photo,officer_name,officer_gender,officer_race,officer_weapon_type,officer_status,shots_fired,summary,justified,mental_illness,district_attorney_action,grand_jury,article_url,report_url,review_board_decision
+baltimore,,Y,Y,Y,I,Y,I,I,,I,Y,Y,,,,,,Y,,,,,,Y,,,,,,,,,,
+dallas,,Y,Y,,I,Y,I,I,,I,Y,Y,Y,,,,Y,Y,Y,,Y,y,y,Y,,,,,,,Y,,Y,
+deadspin,Y,,Y,,Y,,Y,,,Y,,,Y,Y,Y,Y,Y,I,Y,,,,,Y,,Y,Y,,,,,Y,,
+fatal encounters,Y,Y,Y,,Y,Y,Y,Y,Y,Y,,,Y,Y,Y,Y,,I,,Y,,,,,,,Y,Y,Y,,,Y,,
+the counted,,,Y,,Y,Y,Y,Y,,,,,Y,Y,Y,Y,Y,I,,,,,,,,,,,,,,,,
+wapo,,Y,Y,,,,Y,Y,,,,,Y,Y,Y,Y,Y,I,,,,,,Y,,,,,Y,,,,,
+wikipedia,,,,,,,Y,Y,,,,,Y,,Y,,,I,,,,,,,,,Y,,,,,Y,,
+phillypolice,,Y,Y,,I,Y,I,I,,I,,,,,,,,Y,,,,,,,Y,,,,,Y,,,Y,Y
