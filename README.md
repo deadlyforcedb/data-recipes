@@ -47,7 +47,7 @@ These are datasets that have not been made available directly to the public:
 - [Killed By Police -- Facebook Group (facebook.com)](https://www.facebook.com/KilledByPolice) 
 - [List of killings by law enforcement officers in the United States - Wikipedia, the free encyclopedia (en.wikipedia.org)]() 
 - [Deadly Force -- Las Vegas Review-Journal (reviewjournal.com)](http://www.reviewjournal.com/news/deadly-force) 
-
+- [Frequent fire -- Los Angeles Times](http://www.latimes.com/local/la-me-glover_101804-story.html#page=1)
 
 ### Articles and clippings
 
