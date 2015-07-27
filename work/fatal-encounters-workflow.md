@@ -17,6 +17,9 @@ Create a subset from the sheet:
 echo "uid,date,city,state,zip,county,agency,article_url" > fatalencounters-agencies.csv
 csvcut -c 23,7,9,10,11,12,13,17 fatalencounters.csv | 
   tail -n +2 >> fatalencounters-agencies.csv
+
+
+
 ~~~
 
 #### Use OpenRefine
