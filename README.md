@@ -91,6 +91,19 @@ DISCHARGES](http://sf-police.org/Modules/ShowDocument.aspx?documentid=14739)
 - [Police Open Data Census](https://codeforamerica.github.io/PoliceOpenDataCensus/) / [Github repo](https://github.com/codeforamerica/PoliceOpenDataCensus) / [Recommendations](https://codeforamerica.github.io/PoliceOpenDataCensus/recomendations.html) / [Google Sheet](https://docs.google.com/spreadsheets/d/1lv74SigFdFMJvza_dc2tBVd37r9E4-CPeY9YkRSaBxA/)
 
 
+## Custody deaths
+
+In-custody deaths have raised protests similar in intensity to deadly-force encounters. The data requests and responding agencies involve a different process.
+
+- [California](https://www.muckrock.com/foi/california-52/california-12525-data-17354/) - Excel files for 2013, 2014, and 2015. MuckRock's [blog post here](https://www.muckrock.com/news/archives/2015/jul/31/california-deaths-custody-2013-2014/).
+- [Texas Custodial Deaths Report, via the state attorney general's office](https://www.texasattorneygeneral.gov/criminal/custodial/report_deaths.php)
+- [Florida inmate mortality via the state Department of Corrections](http://www.dc.state.fl.us/pub/mortality/)
+- [Ohio state Office of Criminal Justice Services](http://www.ocjs.ohio.gov/deathincustody.stm) - PDF summaries only
+- [Delaware, 2000 to April 2005, courtesy the Wilmington News Journal/delawareonline.com](http://archive.delawareonline.com/article/20050925/NEWS/50925004/Del-inmates-who-died-custody-between-2000-April-2005) - via a request to the state Health and Human Services
+- [U.S. DOJ Data Collection: Deaths In Custody Reporting Program (DCRP)](http://www.bjs.gov/index.cfm?ty=dcdetail&iid=243)
+- [U.S. Census of Governments, Deaths in Custody in State Prisons and Local Jails](https://www.census.gov/econ/overview/go2900.html)
+
+
 ## Todos
 
 - [x] Scrape Philadelphia PD records
