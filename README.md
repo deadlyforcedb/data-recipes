@@ -77,6 +77,8 @@ Documents that state policy or other things. TBD: put into a spreadsheet by agen
 
 
 - [Bureau of Justice Statistics - National Data Collection on Police Use of Force](http://www.bjs.gov/content/pub/pdf/ndcopuof.pdf)
+- [BJS - Arrest-Related Deaths](http://www.bjs.gov/index.cfm?ty=tp&tid=82)
+- [FBI Justifiable Homicide (yearly summaries)](https://www.fbi.gov/about-us/cjis/ucr/crime-in-the-u.s/2012/crime-in-the-u.s.-2012/offenses-known-to-law-enforcement/expanded-homicide/expanded_homicide_data_table_14_justifiable_homicide_by_weapon_law_enforcement_2008-2012.xls)
 - [SFPD - GENERAL ORDER - INVESTIGATION OF OFFICER INVOLVED SHOOTINGS AND
 DISCHARGES](http://sf-police.org/Modules/ShowDocument.aspx?documentid=14739)
 - [General Order 906.00 - Dallas Police Department Use of Deadly Force Policy](http://www.dallaspolice.net/ois/docs/General-Order-906.pdf)
