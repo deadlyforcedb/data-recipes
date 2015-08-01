@@ -26,7 +26,7 @@ For the Stanford Journalism fall course, [Public Affairs Data Journalism](http:/
 | Deadspin                             | [Deadspin Police-Shooting Database ](http://regressing.deadspin.com/deadspin-police-shooting-database-update-were-still-go-1627414202)   | [Google Sheets CSV](https://docs.google.com/spreadsheets/d/1cEGQ3eAFKpFBVq1k2mZIy5mBPxC6nBTJHzuSWtZQSVw/export?format=csv&gid=0)                       |   |
 | Wikipedia                            | [List of U.S. LEO killings](https://en.wikipedia.org/wiki/List_of_killings_by_law_enforcement_officers_in_the_United_States)             | None                                                                                                                                                   |   |
 | Killed By Police via FiveThirtyEight | [Another (Much Higher) Count Of Homicides By Police](http://fivethirtyeight.com/datalab/another-much-higher-count-of-police-homicides/)  | [Google Sheets CSV](https://docs.google.com/a/fivethirtyeight.com/spreadsheets/d/1WwVDP8anxtQm-6C2g7pjmZkS_jdSomM7UDMonIX0b6k/export?format=csv&gid=0) |   |
-
+| Gun Violence Archive                 | [Officer Involved Shootings](http://www.gunviolencearchive.org/officer-involved-shootings?sort=desc&order=%23%20Killed)                  | by email only                                                                                                                                          |   |
 
 #### Non-open-sources
 
