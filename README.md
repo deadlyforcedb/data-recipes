@@ -34,7 +34,7 @@ These are datasets that have not been made available directly to the public:
 
 - [Las Vegas Review Journal's Deadly Force searchable database](http://www.reviewjournal.com/news/deadly-force/advanced-search)
 - [L.A. Times Homicide Report: Officer-Involved homicides](http://homicide.latimes.com/officer_involved/true/year/all)
-
+- [VICE News: Police Have Killed at Least 1,083 Americans Since Michael Brown's Death](https://news.vice.com/article/police-have-killed-at-least-1083-americans-since-michael-browns-death)
 
 
 ### Projects
@@ -57,6 +57,8 @@ These are datasets that have not been made available directly to the public:
 - [In Baltimore, No One Left to Press the Police (davidsimon.com)](http://davidsimon.com/in-baltimore-no-one-left-to-press-the-police/) 
 - [How The Washington Post is examining police shootings in the U.S. - The Washington Post (washingtonpost.com)](http://www.washingtonpost.com/national/how-the-washington-post-is-examining-police-shootings-in-the-us/2015/06/29/f42c10b2-151b-11e5-9518-f9e0a8959f32_story.html) 
 - [Baltimore's open (but not current) police data - Sunlight Foundation Blog (sunlightfoundation.com)](https://sunlightfoundation.com/blog/2015/05/01/baltimores-open-but-not-current-police-data/) 
+- [That Pareto Guy? Turns Out He’s Pretty Smart ("A database without context is like a gigantic buffet at a cheap resort: It looks huge, but there’s really very little meat there.")](https://medium.com/@nselby/that-pareto-guy-turns-out-he-s-pretty-smart-b5264380f990) 
+
 - [About The Counted: why and how the Guardian is counting US police killings -- US news -- The Guardian (theguardian.com)](http://www.theguardian.com/us-news/ng-interactive/2015/jun/01/about-the-counted) 
 - [Deadspin Police-Shooting Database Update: We're Still Going (regressing.deadspin.com)](http://regressing.deadspin.com/deadspin-police-shooting-database-update-were-still-go-1627414202) 
 - [Deadly Force, in Black and White - ProPublica (propublica.org)](http://www.propublica.org/article/deadly-force-in-black-and-white) 
